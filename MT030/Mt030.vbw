@@ -1,0 +1,10 @@
+frmMt030 = 132, 132, 936, 660, , 154, 154, 1427, 643, C
+basType = 0, 0, 0, 0, C
+basGlobal = 0, 0, 0, 0, C
+clsReg = 0, 0, 0, 0, C
+basImectl = 0, 0, 0, 0, C
+frmPrintDialog = 0, 0, 0, 0, C, 88, 88, 1361, 577, C
+rptMT030 = 0, 0, 0, 0, C, 88, 88, 1112, 856, C
+clsAdoRecordCtl = 0, 0, 0, 0, C
+clsExcelOut = 0, 0, 0, 0, C
+frmMt030Search = 0, 0, 0, 0, C, 332, 39, 1047, 632, C

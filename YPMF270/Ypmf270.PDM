@@ -1,0 +1,135 @@
+[Root]
+Most Recent Package=標準のｾｯﾄｱｯﾌﾟ ﾊﾟｯｹｰｼﾞ 1
+
+
+[Package|標準のｾｯﾄｱｯﾌﾟ ﾊﾟｯｹｰｼﾞ 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=c:\Temp
+
+[Package|標準のｾｯﾄｱｯﾌﾟ ﾊﾟｯｹｰｼﾞ 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|標準のｾｯﾄｱｯﾌﾟ ﾊﾟｯｹｰｼﾞ 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|標準のｾｯﾄｱｯﾌﾟ ﾊﾟｯｹｰｼﾞ 1|Files Found]
+
+[Package|標準のｾｯﾄｱｯﾌﾟ ﾊﾟｯｹｰｼﾞ 1|Files Released]
+
+[Package|標準のｾｯﾄｱｯﾌﾟ ﾊﾟｯｹｰｼﾞ 1|Missing Dependency Information]
+\\Com-sv8\users\Yawase\Dll\COMFNPG32.ocx=
+C:\Program Files\QPro4\Control\CSCAPT32.OCX=
+C:\Program Files\QPro4\Control\CSCOMB32.OCX=
+\\Com-sv8\users\Yawase\Dll\ArPrint.dll=
+\\Com-sv8\users\Yawase\Dll\AdoCore.dll=
+C:\Program Files\Common Files\System\ado\msado26.tlb=
+C:\Program Files\QPro4\Control\CSCMD32.OCX=
+
+[Package|標準のｾｯﾄｱｯﾌﾟ ﾊﾟｯｹｰｼﾞ 1|Out-of-Date Dependency Information]
+
+[Package|標準のｾｯﾄｱｯﾌﾟ ﾊﾟｯｹｰｼﾞ 1|Files Added]
+
+[Package|標準のｾｯﾄｱｯﾌﾟ ﾊﾟｯｹｰｼﾞ 1|Files Removed]
+
+[Package|標準のｾｯﾄｱｯﾌﾟ ﾊﾟｯｹｰｼﾞ 1|Files In Project]
+\\Com-sv8\users\Yawase\Bin\YPMF270.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\VB6JP.DLL=Yes
+C:\WINDOWS\system32\MSBIND.DLL=Yes
+C:\WINDOWS\system32\MSSTDFMT.DLL=Yes
+C:\WINDOWS\system32\STDFTJP.DLL=Yes
+C:\Program Files\InputMan65\Controls\Text60.ocx=Yes
+C:\Program Files\InputMan65\Controls\ImBase6.dll=Yes
+C:\Program Files\InputMan65\Controls\imshare6.dll=Yes
+C:\Program Files\QPro4\Control\CSCMD32.OCX=Yes
+C:\Program Files\Common Files\System\ado\msado26.tlb=Yes
+\\Com-sv8\users\Yawase\Dll\AdoCore.dll=Yes
+C:\Program Files\InputMan65\Controls\Number60.ocx=Yes
+C:\Program Files\AReport15\ActRpt15j.dll=Yes
+\\Com-sv8\users\Yawase\Dll\ArPrint.dll=Yes
+C:\Program Files\QPro4\Control\CSCOMB32.OCX=Yes
+C:\Program Files\QPro4\Control\CSCAPT32.OCX=Yes
+C:\WINDOWS\system32\MSADODC.OCX=Yes
+C:\WINDOWS\system32\ADODCJP.DLL=Yes
+C:\WINDOWS\system32\Mscomctl.ocx=Yes
+C:\WINDOWS\system32\MSCMCJP.DLL=Yes
+\\Com-sv8\users\Yawase\Dll\COMFNPG32.ocx=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|標準のｾｯﾄｱｯﾌﾟ ﾊﾟｯｹｰｼﾞ 1|Configure Registry Files]
+Applicable=No
+
+[Package|標準のｾｯﾄｱｯﾌﾟ ﾊﾟｯｹｰｼﾞ 1|Configure Remote Servers]
+Applicable=No
+
+[Package|標準のｾｯﾄｱｯﾌﾟ ﾊﾟｯｹｰｼﾞ 1|Install Locations]
+\\Com-sv8\users\Yawase\Bin\YPMF270.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB6JP.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSBIND.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\STDFTJP.DLL=$(WinSysPath)
+C:\Program Files\InputMan65\Controls\Text60.ocx=$(WinSysPath)
+C:\Program Files\InputMan65\Controls\ImBase6.dll=$(WinSysPath)
+C:\Program Files\InputMan65\Controls\imshare6.dll=$(WinSysPath)
+C:\Program Files\QPro4\Control\CSCMD32.OCX=$(WinSysPath)
+C:\Program Files\Common Files\System\ado\msado26.tlb=$(WinSysPath)
+\\Com-sv8\users\Yawase\Dll\AdoCore.dll=$(WinSysPath)
+C:\Program Files\InputMan65\Controls\Number60.ocx=$(WinSysPath)
+C:\Program Files\AReport15\ActRpt15j.dll=$(WinSysPath)
+\\Com-sv8\users\Yawase\Dll\ArPrint.dll=$(WinSysPath)
+C:\Program Files\QPro4\Control\CSCOMB32.OCX=$(WinSysPath)
+C:\Program Files\QPro4\Control\CSCAPT32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSADODC.OCX=$(WinSysPath)
+C:\WINDOWS\system32\ADODCJP.DLL=$(WinSysPath)
+C:\WINDOWS\system32\Mscomctl.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSCMCJP.DLL=$(WinSysPath)
+\\Com-sv8\users\Yawase\Dll\COMFNPG32.ocx=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|標準のｾｯﾄｱｯﾌﾟ ﾊﾟｯｹｰｼﾞ 1|Configure Shared Files]
+Applicable=Yes
+\\Com-sv8\users\Yawase\Bin\YPMF270.exe=No
+
+[Package|標準のｾｯﾄｱｯﾌﾟ ﾊﾟｯｹｰｼﾞ 1|Distribution]
+Type=single
+Size=
+Title=Ypmf270
+
+[Package|標準のｾｯﾄｱｯﾌﾟ ﾊﾟｯｹｰｼﾞ 1|IconGroups]
+Group0=Ypmf270
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|標準のｾｯﾄｱｯﾌﾟ ﾊﾟｯｹｰｼﾞ 1|Ypmf270]
+Icon1=YPMF270.exe
+Title1=Ypmf270
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|標準のｾｯﾄｱｯﾌﾟ ﾊﾟｯｹｰｼﾞ 1|Package]
+PackageFolder=c:\Temp
+ProjectFolder=\\Com-sv8\users\Yawase\Src\YPMF270
+ServerSideCab=
+File1=c:\Temp\setup.exe
+File2=c:\Temp\Setup.Lst
+File3=c:\Temp\YPMF270.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz

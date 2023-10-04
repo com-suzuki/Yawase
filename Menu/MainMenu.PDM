@@ -1,0 +1,301 @@
+[Root]
+Most Recent Package=標準のｾｯﾄｱｯﾌﾟ ﾊﾟｯｹｰｼﾞ 1
+
+
+[Package|標準のｾｯﾄｱｯﾌﾟ ﾊﾟｯｹｰｼﾞ 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=\\Com-sv5\Users\Yawase\Setup
+
+[Package|標準のｾｯﾄｱｯﾌﾟ ﾊﾟｯｹｰｼﾞ 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|標準のｾｯﾄｱｯﾌﾟ ﾊﾟｯｹｰｼﾞ 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|標準のｾｯﾄｱｯﾌﾟ ﾊﾟｯｹｰｼﾞ 1|Files Found]
+
+[Package|標準のｾｯﾄｱｯﾌﾟ ﾊﾟｯｹｰｼﾞ 1|Files Released]
+
+[Package|標準のｾｯﾄｱｯﾌﾟ ﾊﾟｯｹｰｼﾞ 1|Missing Dependency Information]
+\\com-sv5\users\Yawase\Dll\COMFNPG32.ocx=
+\\Com-sv5\Users\Yawase\Dll\AdoCore.dll=
+\\Com-sv5\Users\Yawase\Dll\ArPrint.dll=
+\\Com-sv5\Users\Yawase\Bin\YPMF020.exe=
+\\Com-sv5\Users\Yawase\Bin\MT020.exe=
+\\Com-sv5\Users\Yawase\Bin\MT030.exe=
+\\Com-sv5\Users\Yawase\Bin\MT040.exe=
+\\Com-sv5\Users\Yawase\Bin\MT050.exe=
+\\Com-sv5\Users\Yawase\Bin\MT060.exe=
+\\Com-sv5\Users\Yawase\Bin\MT070.exe=
+\\Com-sv5\Users\Yawase\Bin\YPMF010.exe=
+\\Com-sv5\Users\Yawase\Bin\Config.exe=
+C:\Program Files\Microsoft SQL Server\80\Tools\Binn\SQLDMO.dll=
+\\Com-sv5\Users\Yawase\Bin\YPMF110.exe=
+\\Com-sv5\Users\Yawase\Bin\YPMF040.exe=
+\\Com-sv5\Users\Yawase\Bin\YPMF050.exe=
+\\Com-sv5\Users\Yawase\Bin\YPMF070.exe=
+\\Com-sv5\Users\Yawase\Bin\YPMF080.exe=
+\\Com-sv5\Users\Yawase\Bin\YPMF030.exe=
+\\Com-sv5\Users\Yawase\Bin\DBRestore.exe=
+\\Com-sv5\Users\Yawase\Bin\DBCompact.exe=
+\\Com-sv5\Users\Yawase\Bin\DBBackup.exe=
+
+[Package|標準のｾｯﾄｱｯﾌﾟ ﾊﾟｯｹｰｼﾞ 1|Out-of-Date Dependency Information]
+C:\WINNT\system32\Mscomctl.ocx=
+
+[Package|標準のｾｯﾄｱｯﾌﾟ ﾊﾟｯｹｰｼﾞ 1|Files Added]
+\\com-sv5\users\yawase\bin\ypmf020.exe=
+\\com-sv5\users\yawase\bin\mt020.exe=
+\\com-sv5\users\yawase\bin\mt030.exe=
+\\com-sv5\users\yawase\bin\mt040.exe=
+\\com-sv5\users\yawase\bin\mt050.exe=
+\\com-sv5\users\yawase\bin\mt060.exe=
+\\com-sv5\users\yawase\bin\mt070.exe=
+\\com-sv5\users\yawase\bin\ypmf010.exe=
+\\com-sv5\users\yawase\bin\config.exe=
+\\com-sv5\users\yawase\src\menu\menu.txt=
+\\com-sv5\users\yawase\database\work.mdb=
+\\Com-sv5\Users\Yawase\Dll\ArPrint.ini=
+\\Com-sv5\Users\Yawase\Bin\YPMF110.exe=
+\\Com-sv5\Users\Yawase\Bin\YPMF040.exe=
+\\Com-sv5\Users\Yawase\Bin\YPMF050.exe=
+\\Com-sv5\Users\Yawase\Bin\YPMF070.exe=
+\\Com-sv5\Users\Yawase\Bin\YPMF080.exe=
+\\Com-sv5\Users\Yawase\Bin\YPMF030.exe=
+\\Com-sv5\Users\Yawase\Bin\DBRestore.exe=
+\\Com-sv5\Users\Yawase\Bin\DBCompact.exe=
+\\Com-sv5\Users\Yawase\Bin\DBBackup.exe=
+
+[Package|標準のｾｯﾄｱｯﾌﾟ ﾊﾟｯｹｰｼﾞ 1|Files Removed]
+
+[Package|標準のｾｯﾄｱｯﾌﾟ ﾊﾟｯｹｰｼﾞ 1|Files In Project]
+\\Com-sv5\Users\Yawase\Bin\Menu.exe=Yes
+C:\WINNT\system32\msvbvm60.dll=Yes
+F:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+F:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+F:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+F:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+F:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINNT\system32\VB6JP.DLL=Yes
+C:\WINNT\system32\MSBIND.DLL=Yes
+C:\WINNT\system32\MSSTDFMT.DLL=Yes
+C:\WINNT\system32\STDFTJP.DLL=Yes
+F:\Program Files\Imocx60\Controls\Text60.ocx=Yes
+F:\Program Files\Imocx60\Controls\ImBase6.dll=Yes
+F:\Program Files\Imocx60\Controls\imshare6.dll=Yes
+F:\Program Files\QPro4\CONTROL\CSCMD32.OCX=Yes
+F:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MFC40.DLL=Yes
+F:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=Yes
+C:\WINNT\system32\mfc40loc.dll=Yes
+\\Com-sv5\Users\Yawase\Dll\ArPrint.dll=Yes
+\\Com-sv5\Users\Yawase\Dll\AdoCore.dll=Yes
+F:\Program Files\AReport15\ActRpt15j.dll=Yes
+F:\Program Files\Imocx60\Controls\Number60.ocx=Yes
+F:\Program Files\Imocx60\Controls\Date60.ocx=Yes
+F:\Program Files\Imocx60\Controls\Mask60.ocx=Yes
+F:\Program Files\QPro4\CONTROL\CSCOMB32.OCX=Yes
+F:\Program Files\QPro4\CONTROL\CSCAPT32.OCX=Yes
+C:\WINNT\system32\MSADODC.OCX=Yes
+C:\WINNT\system32\ADODCJP.DLL=Yes
+C:\WINNT\system32\MSDATGRD.OCX=Yes
+C:\WINNT\system32\DATGDJP.DLL=Yes
+C:\WINNT\system32\Mscomctl.ocx=Yes
+C:\WINNT\system32\MSCMCJP.DLL=Yes
+\\com-sv5\users\Yawase\Dll\COMFNPG32.ocx=Yes
+F:\Program Files\QPro4\CONTROL\CSFORM32.OCX=Yes
+F:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+F:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+F:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINNT\system32\VB6STKIT.DLL=Yes
+F:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+\\Com-sv5\Users\Yawase\Bin\YPMF020.exe=Yes
+\\Com-sv5\Users\Yawase\Bin\MT020.exe=Yes
+\\Com-sv5\Users\Yawase\Bin\MT030.exe=Yes
+\\Com-sv5\Users\Yawase\Bin\MT040.exe=Yes
+\\Com-sv5\Users\Yawase\Bin\MT050.exe=Yes
+\\Com-sv5\Users\Yawase\Bin\MT060.exe=Yes
+\\Com-sv5\Users\Yawase\Bin\MT070.exe=Yes
+\\Com-sv5\Users\Yawase\Bin\YPMF010.exe=Yes
+\\Com-sv5\Users\Yawase\Bin\Config.exe=Yes
+\\Com-sv5\Users\Yawase\Src\Menu\Menu.txt=Yes
+F:\Program Files\AReport15\ArViewer15j.ocx=Yes
+F:\Program Files\AReport15\EXPORT\PdfExpt.dll=Yes
+F:\Program Files\AReport15\EXPORT\ARPDFF6J.dll=Yes
+C:\WINNT\system32\COMCT232.OCX=Yes
+C:\WINNT\system32\CMCT2JP.DLL=Yes
+C:\WINNT\system32\Comdlg32.ocx=Yes
+C:\WINNT\system32\CMDLGJP.DLL=Yes
+C:\WINNT\system32\COMCTL32.OCX=Yes
+C:\WINNT\system32\CMCTLJP.DLL=Yes
+\\Com-sv5\Users\Yawase\Database\Work.mdb=Yes
+C:\Program Files\Common Files\Microsoft Shared\DAO\dao360.dll=Yes
+C:\WINNT\system32\msjet40.dll=Yes
+C:\WINNT\system32\msjter40.dll=Yes
+C:\WINNT\system32\msjint40.dll=Yes
+C:\WINNT\system32\vbajet32.dll=Yes
+C:\WINNT\system32\expsrv.dll=Yes
+C:\WINNT\system32\mswstr10.dll=Yes
+C:\WINNT\system32\mswdat10.dll=Yes
+C:\WINNT\system32\msrd2x40.dll=Yes
+C:\WINNT\system32\msrd3x40.dll=Yes
+C:\WINNT\system32\msrepl40.dll=Yes
+C:\WINNT\system32\msjtes40.dll=Yes
+C:\WINNT\system32\VB5DB.DLL=Yes
+C:\Program Files\Microsoft SQL Server\80\Tools\Binn\SQLDMO.dll=Yes
+\\Com-sv5\Users\Yawase\Dll\ArPrint.ini=Yes
+\\Com-sv5\Users\Yawase\Bin\YPMF110.exe=Yes
+\\Com-sv5\Users\Yawase\Bin\YPMF040.exe=Yes
+\\Com-sv5\Users\Yawase\Bin\YPMF050.exe=Yes
+\\Com-sv5\Users\Yawase\Bin\YPMF070.exe=Yes
+\\Com-sv5\Users\Yawase\Bin\YPMF080.exe=Yes
+\\Com-sv5\Users\Yawase\Bin\YPMF030.exe=Yes
+\\Com-sv5\Users\Yawase\Bin\DBRestore.exe=Yes
+\\Com-sv5\Users\Yawase\Bin\DBCompact.exe=Yes
+\\Com-sv5\Users\Yawase\Bin\DBBackup.exe=Yes
+
+[Package|標準のｾｯﾄｱｯﾌﾟ ﾊﾟｯｹｰｼﾞ 1|Configure Registry Files]
+Applicable=No
+
+[Package|標準のｾｯﾄｱｯﾌﾟ ﾊﾟｯｹｰｼﾞ 1|Configure Remote Servers]
+Applicable=No
+
+[Package|標準のｾｯﾄｱｯﾌﾟ ﾊﾟｯｹｰｼﾞ 1|Install Locations]
+\\Com-sv5\Users\Yawase\Bin\Menu.exe=$(AppPath)
+C:\WINNT\system32\msvbvm60.dll=$(WinSysPathSysFile)
+F:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+F:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+F:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+F:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+F:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\VB6JP.DLL=$(WinSysPath)
+C:\WINNT\system32\MSBIND.DLL=$(WinSysPath)
+C:\WINNT\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINNT\system32\STDFTJP.DLL=$(WinSysPath)
+F:\Program Files\Imocx60\Controls\Text60.ocx=$(WinSysPath)
+F:\Program Files\Imocx60\Controls\ImBase6.dll=$(WinSysPath)
+F:\Program Files\Imocx60\Controls\imshare6.dll=$(WinSysPath)
+F:\Program Files\QPro4\CONTROL\CSCMD32.OCX=$(WinSysPath)
+F:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MFC40.DLL=$(WinSysPath)
+F:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\mfc40loc.dll=$(WinSysPathSysFile)
+\\Com-sv5\Users\Yawase\Dll\ArPrint.dll=$(AppPath)
+\\Com-sv5\Users\Yawase\Dll\AdoCore.dll=$(AppPath)
+F:\Program Files\AReport15\ActRpt15j.dll=$(WinSysPath)
+F:\Program Files\Imocx60\Controls\Number60.ocx=$(WinSysPath)
+F:\Program Files\Imocx60\Controls\Date60.ocx=$(WinSysPath)
+F:\Program Files\Imocx60\Controls\Mask60.ocx=$(WinSysPath)
+F:\Program Files\QPro4\CONTROL\CSCOMB32.OCX=$(WinSysPath)
+F:\Program Files\QPro4\CONTROL\CSCAPT32.OCX=$(WinSysPath)
+C:\WINNT\system32\MSADODC.OCX=$(WinSysPath)
+C:\WINNT\system32\ADODCJP.DLL=$(WinSysPath)
+C:\WINNT\system32\MSDATGRD.OCX=$(WinSysPath)
+C:\WINNT\system32\DATGDJP.DLL=$(WinSysPath)
+C:\WINNT\system32\Mscomctl.ocx=$(WinSysPath)
+C:\WINNT\system32\MSCMCJP.DLL=$(WinSysPath)
+\\com-sv5\users\Yawase\Dll\COMFNPG32.ocx=$(WinSysPath)
+F:\Program Files\QPro4\CONTROL\CSFORM32.OCX=$(WinSysPath)
+F:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+F:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+F:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+F:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+\\Com-sv5\Users\Yawase\Bin\YPMF020.exe=$(AppPath)
+\\Com-sv5\Users\Yawase\Bin\MT020.exe=$(AppPath)
+\\Com-sv5\Users\Yawase\Bin\MT030.exe=$(AppPath)
+\\Com-sv5\Users\Yawase\Bin\MT040.exe=$(AppPath)
+\\Com-sv5\Users\Yawase\Bin\MT050.exe=$(AppPath)
+\\Com-sv5\Users\Yawase\Bin\MT060.exe=$(AppPath)
+\\Com-sv5\Users\Yawase\Bin\MT070.exe=$(AppPath)
+\\Com-sv5\Users\Yawase\Bin\YPMF010.exe=$(AppPath)
+\\Com-sv5\Users\Yawase\Bin\Config.exe=$(AppPath)
+\\Com-sv5\Users\Yawase\Src\Menu\Menu.txt=$(AppPath)
+F:\Program Files\AReport15\ArViewer15j.ocx=$(WinSysPath)
+F:\Program Files\AReport15\EXPORT\PdfExpt.dll=$(WinSysPath)
+F:\Program Files\AReport15\EXPORT\ARPDFF6J.dll=$(WinSysPath)
+C:\WINNT\system32\COMCT232.OCX=$(WinSysPath)
+C:\WINNT\system32\CMCT2JP.DLL=$(WinSysPath)
+C:\WINNT\system32\Comdlg32.ocx=$(WinSysPath)
+C:\WINNT\system32\CMDLGJP.DLL=$(WinSysPath)
+C:\WINNT\system32\COMCTL32.OCX=$(WinSysPath)
+C:\WINNT\system32\CMCTLJP.DLL=$(WinSysPath)
+\\Com-sv5\Users\Yawase\Database\Work.mdb=$(AppPath)
+C:\Program Files\Common Files\Microsoft Shared\DAO\dao360.dll=$(MSDAOPath)
+C:\WINNT\system32\msjet40.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\msjter40.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\msjint40.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\vbajet32.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\expsrv.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\mswstr10.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\mswdat10.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\msrd2x40.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\msrd3x40.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\msrepl40.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\msjtes40.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\VB5DB.DLL=$(WinSysPath)
+C:\Program Files\Microsoft SQL Server\80\Tools\Binn\SQLDMO.dll=$(AppPath)
+\\Com-sv5\Users\Yawase\Dll\ArPrint.ini=$(AppPath)
+\\Com-sv5\Users\Yawase\Bin\YPMF110.exe=$(AppPath)
+\\Com-sv5\Users\Yawase\Bin\YPMF040.exe=$(AppPath)
+\\Com-sv5\Users\Yawase\Bin\YPMF050.exe=$(AppPath)
+\\Com-sv5\Users\Yawase\Bin\YPMF070.exe=$(AppPath)
+\\Com-sv5\Users\Yawase\Bin\YPMF080.exe=$(AppPath)
+\\Com-sv5\Users\Yawase\Bin\YPMF030.exe=$(AppPath)
+\\Com-sv5\Users\Yawase\Bin\DBRestore.exe=$(AppPath)
+\\Com-sv5\Users\Yawase\Bin\DBCompact.exe=$(AppPath)
+\\Com-sv5\Users\Yawase\Bin\DBBackup.exe=$(AppPath)
+
+[Package|標準のｾｯﾄｱｯﾌﾟ ﾊﾟｯｹｰｼﾞ 1|Configure Shared Files]
+Applicable=Yes
+\\Com-sv5\Users\Yawase\Bin\Menu.exe=No
+F:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+\\Com-sv5\Users\Yawase\Bin\YPMF020.exe=No
+\\Com-sv5\Users\Yawase\Bin\MT020.exe=No
+\\Com-sv5\Users\Yawase\Bin\MT030.exe=No
+\\Com-sv5\Users\Yawase\Bin\MT040.exe=No
+\\Com-sv5\Users\Yawase\Bin\MT050.exe=No
+\\Com-sv5\Users\Yawase\Bin\MT060.exe=No
+\\Com-sv5\Users\Yawase\Bin\MT070.exe=No
+\\Com-sv5\Users\Yawase\Bin\YPMF010.exe=No
+\\Com-sv5\Users\Yawase\Bin\Config.exe=No
+\\Com-sv5\Users\Yawase\Src\Menu\Menu.txt=No
+\\Com-sv5\Users\Yawase\Database\Work.mdb=No
+\\Com-sv5\Users\Yawase\Dll\ArPrint.dll=No
+\\Com-sv5\Users\Yawase\Dll\AdoCore.dll=No
+C:\Program Files\Microsoft SQL Server\80\Tools\Binn\SQLDMO.dll=No
+\\Com-sv5\Users\Yawase\Dll\ArPrint.ini=No
+\\Com-sv5\Users\Yawase\Bin\YPMF110.exe=No
+\\Com-sv5\Users\Yawase\Bin\YPMF040.exe=No
+\\Com-sv5\Users\Yawase\Bin\YPMF050.exe=No
+\\Com-sv5\Users\Yawase\Bin\YPMF070.exe=No
+\\Com-sv5\Users\Yawase\Bin\YPMF080.exe=No
+\\Com-sv5\Users\Yawase\Bin\YPMF030.exe=No
+\\Com-sv5\Users\Yawase\Bin\DBRestore.exe=No
+\\Com-sv5\Users\Yawase\Bin\DBCompact.exe=No
+\\Com-sv5\Users\Yawase\Bin\DBBackup.exe=No
+
+[Package|標準のｾｯﾄｱｯﾌﾟ ﾊﾟｯｹｰｼﾞ 1|Distribution]
+Type=single
+Size=
+Title=植木市場精算システム
+
+[Package|標準のｾｯﾄｱｯﾌﾟ ﾊﾟｯｹｰｼﾞ 1|Package]
+PackageFolder=\\Com-sv5\Users\Yawase\Setup
+ProjectFolder=\\Com-sv5\Users\Yawase\Src\Menu
+ServerSideCab=
+File1=\\Com-sv5\Users\Yawase\Setup\setup.exe
+File2=\\Com-sv5\Users\Yawase\Setup\Setup.Lst
+File3=\\Com-sv5\Users\Yawase\Setup\Menu.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|標準のｾｯﾄｱｯﾌﾟ ﾊﾟｯｹｰｼﾞ 1|IconGroups]
+Group0=植木市場精算システム
+PrivateGroup0=0
+Parent0=$(Programs)
+
+[Package|標準のｾｯﾄｱｯﾌﾟ ﾊﾟｯｹｰｼﾞ 1|植木市場精算システム]
+Icon1=Menu.exe
+Title1=システムメニュー
+StartIn1=$(AppPath)
+Key1=Icon1

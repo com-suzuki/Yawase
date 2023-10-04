@@ -1,0 +1,8 @@
+basType = 0, 0, 0, 0, C
+basGlobal = 66, 66, 592, 511, C
+clsReg = 0, 0, 0, 0, C
+basImectl = 0, 0, 0, 0, C
+basMain = 110, 110, 721, 555, C
+frmYpmf280 = 44, 44, 570, 489, Z, 22, 22, 548, 467, C
+basYawase = 154, 154, 680, 599, C
+frmCount = 154, 154, 747, 599, C, 66, 66, 592, 511, C

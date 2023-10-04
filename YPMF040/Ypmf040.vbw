@@ -1,0 +1,11 @@
+basType = 0, 0, 0, 0, C
+basGlobal = 0, 0, 0, 0, C
+clsReg = 0, 0, 0, 0, C
+basImectl = 0, 0, 0, 0, C
+frmLogin = 0, 0, 0, 0, C, 220, 220, 1509, 725, C
+basMain = 66, 66, 1408, 555, 
+frmYpmf040 = 180, 51, 1469, 556, , 110, 110, 1399, 615, C
+basYawase = 0, 0, 1342, 489, 
+rptYpmf040 = 242, 242, 1515, 731, Z, 129, 26, 1409, 994, C
+frmCount = 0, 0, 0, 0, C, 242, 242, 1531, 747, C
+clsAdoCore = 0, 0, 0, 0, C
